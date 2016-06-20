@@ -1,0 +1,85 @@
+	#banner_text {
+	  margin:6% auto;
+	  font-family:Arial;
+	  font-weight:bold;
+	  font-size:64px;
+	  color:white;
+	}	
+	#mainDiv {
+	  background-image:url(https://yoxvew-bn1305.files.1drv.com/y3p6mIzKlj0Jp7aFcENRIW-pICGaFfgSMlfpw2IcClr-GZ-BLn-odAgNvpGszMNjsR-tlaa6_QQARlFvhQidReRzttKRkmtXjcVWItbMhY6sbxqRIIVrpGey3egjbmV5N3fw2XdzZr3tnIOeEpC8MZekD70dQtdxIaOxuHRwe99fb0/background.jpg?psid=1);
+	  background-size:cover;
+	}
+	#bannerDiv{
+	  background-image:url(https://yoxvew-bn1305.files.1drv.com/y3pdKTx2pL3w7Yb-LEBKUIOoAYfXLK_gDz2mn07tULH-GoWxmDsBwLv0k3Qk2KIsT64abfw8rjVFoq_tyD3DIZvQbBbX9lKBV66ext6qsL-dp1yUUXbhlsAb5GEPdmvA4kJ71v4oiWU4G_0Pc7_T5yMyR_Bm7l9-MsIxQfsk9kCF4s/header.jpg?psid=1);background-size:cover; 
+	  background-position:center;        
+	}	
+	#naviDiv {
+	  background-color:#990066;
+	}	
+	.btn{
+	  color:white;
+	  font-weight:bold;
+	  margin-right:1%;
+	}	
+	#aboutMe {
+	  padding-top:60px;
+	  padding-bottom:40px;
+	}
+	#aboutMeText {
+	  text-align:left;
+	}
+	#myPhotoDiv {
+	  margin-top:40px;
+	  margin-left:40px;
+	}
+	#myImg {
+	  width:90%;
+	}
+	.lineDiv {
+	  height:8px;
+	  background-color:#990066;
+	  overflow:hidden;
+	}
+	#portfolio {
+	  padding-bottom:40px;
+	}
+	#portfolioText {
+	  margin-top:40px; 
+	  margin-bottom:40px; 
+	  font-family:Arial; 
+	  font-size:40px; 
+	  font-weight:bold; 
+	  color:990066;
+	}
+	.portfolioImg {
+	  width:90%;
+	}
+	.portfolioNote {
+	  font-weight:bold;
+	  color:#990066;
+	}
+	#contactMeText {
+	  margin-top:40px; 
+	  font-family:Arial; 
+	  font-size:40px; 
+	  font-weight:bold; 
+	  color:#990066;
+	}
+	#contactFormDiv {
+	  margin-bottom:20px;
+	}
+	.contactIcon {
+	  width:6%;
+	}
+	#BtnSend {
+	  background-color:#990066;
+	  color:white;
+	  font-weight:bold;
+	  margin-top:1%;
+	}
+	hr {
+	  border:0;
+	  background-color:#990066;
+	  color:#990066;
+	  height:1px;
+	}
